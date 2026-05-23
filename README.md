@@ -1,6 +1,4 @@
-# ¡Hola! Soy Javier Campuzano García 👋 (*HMIS - PÁGINA PERSONAL - REPO 3*)
-
-Repositorio para creación de página principal para HMIS 2026
+# ¡Hola! Soy Javier Campuzano García 👋
 
 ## 🚀 Sobre mí
 ¡Bienvenido/a a mi perfil! Soy un apasionado de la tecnología y estudiante de Ingeniería de Software Y Tecnologías de la Información, enfocado en aprender a construir soluciones robustas, escalables y, sobre todo, eficientes.
