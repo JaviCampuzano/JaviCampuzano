@@ -19,16 +19,6 @@ Estas son algunas de las herramientas y lenguajes con los que suelo trabajar:
 
 ---
 
-## 📈 Objetivos en esta asignatura
-Mi meta para este curso no es solo "picar código", sino dominar el arte de la ingeniería detrás del producto:
-1.  **Dominar Git/GitHub** a nivel profesional (flujos de trabajo como GitFlow).
-2.  **Implementar Tests** automáticos para asegurar la calidad del código.
-3.  **Aprender a documentar** procesos de manera clara y útil para el equipo.
-
-> "La calidad del software no es un accidente; es siempre el resultado de un esfuerzo inteligente."
-
----
-
 ## 📫 Conecta conmigo
 ¿Quieres charlar sobre algún proyecto o simplemente saludar?
 * 💼 [LinkedIn](https://www.linkedin.com/in/javier-campuzano-garc%C3%ADa-756755364/)
