@@ -3,7 +3,7 @@
 Repositorio para creación de página principal para HMIS 2026
 
 ## 🚀 Sobre mí
-¡Bienvenido/a a mi repositorio para la asignatura de **Herramientas y Métodos de Ingeniería del Software**! Soy un apasionado de la tecnología y estudiante de Ingeniería de Software Y Tecnologías de la Información, enfocado en aprender a construir soluciones robustas, escalables y, sobre todo, eficientes.
+¡Bienvenido/a a mi perfil! Soy un apasionado de la tecnología y estudiante de Ingeniería de Software Y Tecnologías de la Información, enfocado en aprender a construir soluciones robustas, escalables y, sobre todo, eficientes.
 
 * 📍 Ubicación: Almería, España
 * 🎓 Educación: Universidad de Almería
